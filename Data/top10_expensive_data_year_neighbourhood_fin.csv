@@ -1,0 +1,41 @@
+,year,neighbourhood,average_house_value,shelter_costs_owned,shelter_costs_rented
+0,2016,Bridle Path-Sunnybrook-York Mills,2124653,2903,2942
+1,2016,Forest Hill South,1664653,2383,1486
+2,2016,Lawrence Park South,1522732,2644,1515
+3,2016,Rosedale-Moore Park,1522193,2498,1809
+4,2016,St.Andrew-Windfields,1390616,2516,1565
+5,2016,Casa Loma,1365503,2434,1841
+6,2016,Bedford Park-Nortown,1295007,2418,1385
+7,2016,Forest Hill North,1185419,2316,1395
+8,2016,Kingsway South,1173663,2173,2020
+9,2016,Yonge-St.Clair,1131888,2192,1619
+10,2011,Bridle Path-Sunnybrook-York Mills,1697067,2387,2388
+11,2011,Forest Hill South,1329642,1959,1206
+12,2011,Lawrence Park South,1216283,2174,1230
+13,2011,Rosedale-Moore Park,1215852,2054,1468
+14,2011,St.Andrew-Windfields,1110755,2069,1270
+15,2011,Casa Loma,1090696,2001,1494
+16,2011,Bedford Park-Nortown,1034387,1988,1124
+17,2011,Forest Hill North,946854,1904,1132
+18,2011,Kingsway South,937464,1787,1640
+19,2011,Yonge-St.Clair,904096,1802,1314
+20,2006,Bridle Path-Sunnybrook-York Mills,1356757,2170,2167
+21,2006,Forest Hill South,1063011,1781,1094
+22,2006,Lawrence Park South,972384,1977,1116
+23,2006,Rosedale-Moore Park,972039,1868,1332
+24,2006,St.Andrew-Windfields,888017,1881,1152
+25,2006,Casa Loma,871981,1819,1356
+26,2006,Bedford Park-Nortown,826963,1808,1020
+27,2006,Forest Hill North,756983,1731,1027
+28,2006,Kingsway South,749476,1625,1488
+29,2006,Yonge-St.Clair,722799,1638,1192
+30,2001,Bridle Path-Sunnybrook-York Mills,927466,1983,1790
+31,2001,Forest Hill South,726664,1001,1469
+32,2001,Lawrence Park South,664712,1021,1630
+33,2001,Rosedale-Moore Park,664476,1219,1540
+34,2001,St.Andrew-Windfields,607040,1055,1551
+35,2001,Casa Loma,596077,1241,1500
+36,2001,Bedford Park-Nortown,565304,933,1491
+37,2001,Forest Hill North,517466,940,1428
+38,2001,Kingsway South,512334,1362,1340
+39,2001,Yonge-St.Clair,494098,1091,1351
