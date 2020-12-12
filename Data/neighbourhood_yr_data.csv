@@ -1,0 +1,561 @@
+,year,neighbourhood,average_house_value
+0,2001,Agincourt North,200388
+1,2001,Rockcliffe-Smythe,210017
+2,2001,Rexdale-Kipling,219337
+3,2001,Regent Park,238524
+4,2001,Princess-Rosethorn,465254
+5,2001,Pleasant View,226856
+6,2001,Playter Estates-Danforth,394235
+7,2001,Pelmo Park-Humberlea,246333
+8,2001,Parkwoods-Donalda,276239
+9,2001,Palmerston-Little Italy,378033
+10,2001,Old East York,269410
+11,2001,Oakwood Village,268067
+12,2001,Oakridge,256556
+13,2001,O'Connor-Parkview,181251
+14,2001,North St.James Town,249993
+15,2001,North Riverdale,427169
+16,2001,Niagara,224801
+17,2001,Newtonbrook West,279833
+18,2001,Long Branch,234424
+19,2001,Malvern,156076
+20,2001,Maple Leaf,275374
+21,2001,Markland Wood,269751
+22,2001,Milliken,209609
+23,2001,Mimico,239078
+24,2001,Roncesvalles,309221
+25,2001,Morningside,173169
+26,2001,Mount Dennis,159374
+27,2001,Mount Olive-Silverstone-Jamestown,153829
+28,2001,Mount Pleasant East,411558
+29,2001,Mount Pleasant West,284459
+30,2001,New Toronto,247779
+31,2001,Newtonbrook East,339987
+32,2001,Moss Park,248778
+33,2001,Rouge,228625
+34,2001,Runnymede-Bloor West Village,335435
+35,2001,Rustic,261923
+36,2001,Weston,187140
+37,2001,Weston-Pellam Park,213749
+38,2001,Wexford/Maryvale,211633
+39,2001,Willowdale East,284984
+40,2001,Willowdale West,283215
+41,2001,Willowridge-Martingrove-Richview,282087
+42,2001,Westminster-Branson,212241
+43,2001,Woburn,181367
+44,2001,Woodbine-Lumsden,224756
+45,2001,Wychwood,343877
+46,2001,Yonge-Eglinton,491987
+47,2001,Yonge-St.Clair,494098
+48,2001,York University Heights,185859
+49,2001,Yorkdale-Glen Park,261784
+50,2001,Woodbine Corridor,270607
+51,2001,Little Portugal,328211
+52,2001,West Humber-Clairville,208555
+53,2001,Waterfront Communities-The Island,228975
+54,2001,Scarborough Village,200402
+55,2001,South Parkdale,271880
+56,2001,South Riverdale,276462
+57,2001,St.Andrew-Windfields,607040
+58,2001,Steeles,228460
+59,2001,Stonegate-Queensway,334433
+60,2001,West Hill,172947
+61,2001,Tam O'Shanter-Sullivan,215039
+62,2001,The Beaches,404836
+63,2001,Thistletown-Beaumond Heights,228368
+64,2001,Thorncliffe Park,155094
+65,2001,Trinity-Bellwoods,324732
+66,2001,University,375678
+67,2001,Victoria Village,213950
+68,2001,Taylor-Massey,145464
+69,2001,Leaside-Bennington,489998
+70,2001,Rosedale-Moore Park,664476
+71,2001,Lawrence Park North,461393
+72,2001,Cabbagetown-South St.James Town,300213
+73,2001,Caledonia-Fairbank,219771
+74,2001,Casa Loma,596077
+75,2001,Centennial Scarborough,249025
+76,2001,Church-Yonge Corridor,246750
+77,2001,Clairlea-Birchmount,215421
+78,2001,Brookhaven-Amesbury,213227
+79,2001,Clanton Park,335119
+80,2001,Corso Italia-Davenport,255142
+81,2001,Danforth,283706
+82,2001,Danforth-East York,256205
+83,2001,Don Valley Village,241824
+84,2001,Dorset Park,159187
+85,2001,Dovercourt-Wallace Emerson-Juncti,264116
+86,2001,Cliffcrest,253618
+87,2001,Downsview-Roding-CFB,231741
+88,2001,Broadview North,269386
+89,2001,Briar Hill-Belgravia,222086
+90,2001,Lawrence Park South,664712
+91,2001,Alderwood,259998
+92,2001,Annex,453850
+93,2001,Banbury-Don Mills,371864
+94,2001,Bathurst Manor,304749
+95,2001,Bay Street Corridor,257404
+96,2001,Bridle Path-Sunnybrook-York Mills,927466
+97,2001,Bayview Village,327644
+98,2001,Bedford Park-Nortown,565304
+99,2001,Beechborough-Greenbrook,225369
+100,2001,Bendale,182957
+101,2001,Birchcliffe-Cliffside,265705
+102,2001,Black Creek,158483
+103,2001,Blake-Jones,310740
+104,2001,Bayview Woods-Steeles,343535
+105,2001,Dufferin Grove,278023
+106,2001,Agincourt South-Malvern West,203047
+107,2001,Junction Area,263247
+108,2001,Lansing-Westgate,372579
+109,2001,Lambton Baby Point,204523
+110,2001,L'Amoreaux,395115
+111,2001,Kingsway South,512334
+112,2001,Kingsview Village-The Westway,205572
+113,2001,Kensington-Chinatown,267631
+114,2001,Kennedy Park,174518
+115,2001,Keelesdale-Eglinton West,196112
+116,2001,East End-Danforth,290457
+117,2001,Islington-City Centre West,274436
+118,2001,Ionview,174793
+119,2001,Humewood-Cedarvale,423537
+120,2001,Humbermede,194295
+121,2001,Humber Heights-Westmount,272896
+122,2001,Hillcrest Village,240009
+123,2001,Humber Summit,213919
+124,2001,High Park-Swansea,354207
+125,2001,Edenbridge-Humber Valley,483734
+126,2001,Eglinton East,163419
+127,2001,Elms-Old Rexdale,163039
+128,2001,Englemount-Lawrence,345676
+129,2001,Highland Creek,260555
+130,2001,Etobicoke West Mall,187993
+131,2001,Flemingdon Park,126255
+132,2001,Eringate-Centennial-West Deane,241685
+133,2001,Forest Hill South,726664
+134,2001,Glenfield-Jane Heights,199043
+135,2001,Greenwood-Coxwell,235168
+136,2001,Guildwood,224425
+137,2001,Henry Farm,224780
+138,2001,High Park North,323536
+139,2001,Forest Hill North,517466
+140,2006,Palmerston-Little Italy,553011
+141,2006,North St.James Town,365706
+142,2006,O'Connor-Parkview,265146
+143,2006,Oakridge,375307
+144,2006,Oakwood Village,392146
+145,2006,Old East York,394111
+146,2006,Parkwoods-Donalda,404100
+147,2006,Little Portugal,480129
+148,2006,Playter Estates-Danforth,576713
+149,2006,Pleasant View,331860
+150,2006,Princess-Rosethorn,680604
+151,2006,Regent Park,348928
+152,2006,Rexdale-Kipling,320860
+153,2006,Rockcliffe-Smythe,307227
+154,2006,Pelmo Park-Humberlea,360352
+155,2006,North Riverdale,624890
+156,2006,Long Branch,342930
+157,2006,Newtonbrook West,409358
+158,2006,Roncesvalles,452349
+159,2006,Malvern,228318
+160,2006,Maple Leaf,402835
+161,2006,Markland Wood,394610
+162,2006,Milliken,306629
+163,2006,Mimico,349739
+164,2006,Niagara,328854
+165,2006,Morningside,253323
+166,2006,Mount Dennis,233143
+167,2006,Mount Olive-Silverstone-Jamestown,225031
+168,2006,Mount Pleasant East,602054
+169,2006,Mount Pleasant West,416125
+170,2006,New Toronto,362468
+171,2006,Newtonbrook East,497355
+172,2006,Moss Park,363929
+173,2006,Rosedale-Moore Park,972039
+174,2006,Victoria Village,312980
+175,2006,Runnymede-Bloor West Village,490697
+176,2006,York University Heights,271887
+177,2006,Yonge-St.Clair,722799
+178,2006,Yonge-Eglinton,719711
+179,2006,Wychwood,503046
+180,2006,Woodbine-Lumsden,328788
+181,2006,Woodbine Corridor,395861
+182,2006,Woburn,265315
+183,2006,Willowridge-Martingrove-Richview,412655
+184,2006,Willowdale West,414306
+185,2006,Willowdale East,416893
+186,2006,Wexford/Maryvale,309590
+187,2006,Weston-Pellam Park,312685
+188,2006,Weston,273761
+189,2006,Westminster-Branson,310480
+190,2006,West Humber-Clairville,305088
+191,2006,West Hill,252998
+192,2006,Waterfront Communities-The Island,334960
+193,2006,Rustic,383158
+194,2006,Scarborough Village,293162
+195,2006,South Parkdale,397724
+196,2006,South Riverdale,404427
+197,2006,St.Andrew-Windfields,888017
+198,2006,Steeles,334206
+199,2006,Rouge,334448
+200,2006,Stonegate-Queensway,489230
+201,2006,Taylor-Massey,212794
+202,2006,The Beaches,592220
+203,2006,Thistletown-Beaumond Heights,334072
+204,2006,Thorncliffe Park,226882
+205,2006,Trinity-Bellwoods,475039
+206,2006,University,549567
+207,2006,Tam O'Shanter-Sullivan,314574
+208,2006,Leaside-Bennington,716801
+209,2006,Yorkdale-Glen Park,382954
+210,2006,Lawrence Park North,674957
+211,2006,Brookhaven-Amesbury,311922
+212,2006,Cabbagetown-South St.James Town,439171
+213,2006,Caledonia-Fairbank,321496
+214,2006,Casa Loma,871981
+215,2006,Centennial Scarborough,364291
+216,2006,Church-Yonge Corridor,360962
+217,2006,Lawrence Park South,972384
+218,2006,Clairlea-Birchmount,315133
+219,2006,Cliffcrest,371009
+220,2006,Corso Italia-Davenport,373239
+221,2006,Danforth,415024
+222,2006,Danforth-East York,374793
+223,2006,Don Valley Village,353756
+224,2006,Dorset Park,232869
+225,2006,Clanton Park,490234
+226,2006,Dovercourt-Wallace Emerson-Juncti,386366
+227,2006,Bridle Path-Sunnybrook-York Mills,1356757
+228,2006,Blake-Jones,454571
+229,2006,Agincourt North,293140
+230,2006,Agincourt South-Malvern West,297031
+231,2006,Alderwood,380342
+232,2006,Annex,663921
+233,2006,Banbury-Don Mills,543987
+234,2006,Bathurst Manor,445807
+235,2006,Briar Hill-Belgravia,324882
+236,2006,Bay Street Corridor,376548
+237,2006,Bayview Woods-Steeles,502546
+238,2006,Bedford Park-Nortown,826963
+239,2006,Beechborough-Greenbrook,329685
+240,2006,Bendale,267642
+241,2006,Birchcliffe-Cliffside,388690
+242,2006,Black Creek,231839
+243,2006,Bayview Village,479299
+244,2006,Downsview-Roding-CFB,339006
+245,2006,Broadview North,394075
+246,2006,East End-Danforth,424900
+247,2006,Humber Summit,312935
+248,2006,Humbermede,284227
+249,2006,Humewood-Cedarvale,619577
+250,2006,Ionview,255698
+251,2006,Islington-City Centre West,401463
+252,2006,Keelesdale-Eglinton West,286886
+253,2006,Humber Heights-Westmount,399210
+254,2006,Kennedy Park,255296
+255,2006,Kingsview Village-The Westway,300725
+256,2006,Kingsway South,749476
+257,2006,L'Amoreaux,578001
+258,2006,Lambton Baby Point,299190
+259,2006,Lansing-Westgate,545034
+260,2006,Dufferin Grove,406710
+261,2006,Kensington-Chinatown,391509
+262,2006,Hillcrest Village,351101
+263,2006,Junction Area,385094
+264,2006,High Park-Swansea,518157
+265,2006,Highland Creek,381156
+266,2006,Eglinton East,239060
+267,2006,Elms-Old Rexdale,238505
+268,2006,Englemount-Lawrence,505677
+269,2006,Eringate-Centennial-West Deane,353553
+270,2006,Etobicoke West Mall,275009
+271,2006,Flemingdon Park,184694
+272,2006,Edenbridge-Humber Valley,707638
+273,2006,Forest Hill South,1063011
+274,2006,Glenfield-Jane Heights,291172
+275,2006,Greenwood-Coxwell,344019
+276,2006,Guildwood,328303
+277,2006,Henry Farm,328823
+278,2006,High Park North,473289
+279,2006,Forest Hill North,756983
+280,2011,Oakridge,469444
+281,2011,Oakwood Village,490506
+282,2011,Old East York,492964
+283,2011,Palmerston-Little Italy,691720
+284,2011,Parkwoods-Donalda,505459
+285,2011,Pelmo Park-Humberlea,450737
+286,2011,Regent Park,436448
+287,2011,Pleasant View,415099
+288,2011,Princess-Rosethorn,851317
+289,2011,Rexdale-Kipling,401340
+290,2011,Rockcliffe-Smythe,384287
+291,2011,Roncesvalles,565810
+292,2011,O'Connor-Parkview,331652
+293,2011,Playter Estates-Danforth,721368
+294,2011,North St.James Town,457435
+295,2011,Long Branch,428946
+296,2011,Niagara,411339
+297,2011,Malvern,285586
+298,2011,Maple Leaf,503876
+299,2011,Markland Wood,493588
+300,2011,Milliken,383540
+301,2011,Mimico,437462
+302,2011,Morningside,316863
+303,2011,North Riverdale,781629
+304,2011,Moss Park,455212
+305,2011,Mount Olive-Silverstone-Jamestown,281475
+306,2011,Mount Pleasant East,753065
+307,2011,Mount Pleasant West,520500
+308,2011,New Toronto,453384
+309,2011,Newtonbrook East,622104
+310,2011,Newtonbrook West,512036
+311,2011,Mount Dennis,291621
+312,2011,Rouge,418336
+313,2011,Yorkdale-Glen Park,479009
+314,2011,Rustic,479264
+315,2011,Weston,342427
+316,2011,Weston-Pellam Park,391115
+317,2011,Wexford/Maryvale,387243
+318,2011,Willowdale East,521460
+319,2011,Willowdale West,518224
+320,2011,Willowridge-Martingrove-Richview,516160
+321,2011,Westminster-Branson,388356
+322,2011,Woburn,331863
+323,2011,Woodbine-Lumsden,411256
+324,2011,Wychwood,629223
+325,2011,Yonge-Eglinton,900233
+326,2011,Yonge-St.Clair,904096
+327,2011,York University Heights,340083
+328,2011,Little Portugal,600558
+329,2011,Woodbine Corridor,495153
+330,2011,Runnymede-Bloor West Village,613776
+331,2011,West Humber-Clairville,381612
+332,2011,Waterfront Communities-The Island,418977
+333,2011,Scarborough Village,366694
+334,2011,South Parkdale,497483
+335,2011,South Riverdale,505868
+336,2011,St.Andrew-Windfields,1110755
+337,2011,Steeles,418033
+338,2011,Stonegate-Queensway,611942
+339,2011,West Hill,316456
+340,2011,Tam O'Shanter-Sullivan,393477
+341,2011,The Beaches,740764
+342,2011,Thistletown-Beaumond Heights,417866
+343,2011,Thorncliffe Park,283790
+344,2011,Trinity-Bellwoods,594191
+345,2011,University,687412
+346,2011,Victoria Village,391483
+347,2011,Taylor-Massey,266168
+348,2011,Leaside-Bennington,896593
+349,2011,Rosedale-Moore Park,1215852
+350,2011,Lawrence Park North,844253
+351,2011,Brookhaven-Amesbury,390160
+352,2011,Cabbagetown-South St.James Town,549326
+353,2011,Caledonia-Fairbank,402135
+354,2011,Casa Loma,1090696
+355,2011,Centennial Scarborough,455664
+356,2011,Church-Yonge Corridor,451500
+357,2011,Lawrence Park South,1216283
+358,2011,Clairlea-Birchmount,394176
+359,2011,Cliffcrest,464068
+360,2011,Corso Italia-Davenport,466857
+361,2011,Danforth,519123
+362,2011,Danforth-East York,468801
+363,2011,Don Valley Village,442487
+364,2011,Dorset Park,291278
+365,2011,Clanton Park,613197
+366,2011,Dovercourt-Wallace Emerson-Juncti,483276
+367,2011,Bridle Path-Sunnybrook-York Mills,1697067
+368,2011,Blake-Jones,568589
+369,2011,Agincourt North,366667
+370,2011,Agincourt South-Malvern West,371534
+371,2011,Alderwood,475742
+372,2011,Annex,830450
+373,2011,Banbury-Don Mills,680433
+374,2011,Bathurst Manor,557627
+375,2011,Briar Hill-Belgravia,406371
+376,2011,Bay Street Corridor,470996
+377,2011,Bayview Woods-Steeles,628597
+378,2011,Bedford Park-Nortown,1034387
+379,2011,Beechborough-Greenbrook,412378
+380,2011,Bendale,334773
+381,2011,Birchcliffe-Cliffside,486184
+382,2011,Black Creek,289990
+383,2011,Bayview Village,599520
+384,2011,Downsview-Roding-CFB,424038
+385,2011,Broadview North,492919
+386,2011,East End-Danforth,531476
+387,2011,Humber Summit,391427
+388,2011,Humbermede,355519
+389,2011,Humewood-Cedarvale,774983
+390,2011,Ionview,319834
+391,2011,Islington-City Centre West,502160
+392,2011,Keelesdale-Eglinton West,358844
+393,2011,Humber Heights-Westmount,499342
+394,2011,Kennedy Park,319331
+395,2011,Kingsview Village-The Westway,376154
+396,2011,Kingsway South,937464
+397,2011,L'Amoreaux,722978
+398,2011,Lambton Baby Point,374234
+399,2011,Lansing-Westgate,681742
+400,2011,Dufferin Grove,508723
+401,2011,Kensington-Chinatown,489709
+402,2011,Hillcrest Village,439166
+403,2011,Junction Area,481686
+404,2011,High Park-Swansea,648124
+405,2011,Highland Creek,476760
+406,2011,Eglinton East,299023
+407,2011,Elms-Old Rexdale,298328
+408,2011,Englemount-Lawrence,632514
+409,2011,Eringate-Centennial-West Deane,442233
+410,2011,Etobicoke West Mall,343988
+411,2011,Flemingdon Park,231020
+412,2011,Edenbridge-Humber Valley,885132
+413,2011,Forest Hill South,1329642
+414,2011,Glenfield-Jane Heights,364206
+415,2011,Greenwood-Coxwell,430308
+416,2011,Guildwood,410650
+417,2011,Henry Farm,411300
+418,2011,High Park North,592002
+419,2011,Forest Hill North,946854
+420,2016,O'Connor-Parkview,415214
+421,2016,Oakridge,587723
+422,2016,Oakwood Village,614092
+423,2016,Old East York,617169
+424,2016,Palmerston-Little Italy,866003
+425,2016,Parkwoods-Donalda,632812
+426,2016,Princess-Rosethorn,1065811
+427,2016,Playter Estates-Danforth,903121
+428,2016,Pleasant View,519686
+429,2016,Regent Park,546413
+430,2016,Rexdale-Kipling,502460
+431,2016,Rockcliffe-Smythe,481110
+432,2016,North St.James Town,572689
+433,2016,Pelmo Park-Humberlea,564303
+434,2016,North Riverdale,978565
+435,2016,Little Portugal,751872
+436,2016,Newtonbrook West,641047
+437,2016,Long Branch,537021
+438,2016,Malvern,357541
+439,2016,Maple Leaf,630831
+440,2016,Markland Wood,617950
+441,2016,Milliken,480175
+442,2016,Mimico,547683
+443,2016,Niagara,514978
+444,2016,Morningside,396699
+445,2016,Mount Dennis,365097
+446,2016,Mount Olive-Silverstone-Jamestown,352394
+447,2016,Mount Pleasant East,942804
+448,2016,Mount Pleasant West,651643
+449,2016,New Toronto,567617
+450,2016,Newtonbrook East,778847
+451,2016,Moss Park,569905
+452,2016,Roncesvalles,708369
+453,2016,Yonge-St.Clair,1131888
+454,2016,Rouge,523738
+455,2016,West Humber-Clairville,477762
+456,2016,Westminster-Branson,486204
+457,2016,Weston,428703
+458,2016,Weston-Pellam Park,489659
+459,2016,Wexford/Maryvale,484811
+460,2016,Willowdale East,652845
+461,2016,West Hill,396189
+462,2016,Willowdale West,648794
+463,2016,Woburn,415478
+464,2016,Woodbine Corridor,619910
+465,2016,Woodbine-Lumsden,514874
+466,2016,Wychwood,787760
+467,2016,Yonge-Eglinton,1127052
+468,2016,Leaside-Bennington,1122495
+469,2016,Willowridge-Martingrove-Richview,646210
+470,2016,Rosedale-Moore Park,1522193
+471,2016,Waterfront Communities-The Island,524540
+472,2016,University,860610
+473,2016,Runnymede-Bloor West Village,768420
+474,2016,Rustic,600017
+475,2016,Scarborough Village,459085
+476,2016,South Parkdale,622827
+477,2016,South Riverdale,633325
+478,2016,St.Andrew-Windfields,1390616
+479,2016,Victoria Village,490119
+480,2016,Steeles,523359
+481,2016,Tam O'Shanter-Sullivan,492616
+482,2016,Taylor-Massey,333230
+483,2016,The Beaches,927404
+484,2016,Thistletown-Beaumond Heights,523150
+485,2016,Thorncliffe Park,355293
+486,2016,Trinity-Bellwoods,743901
+487,2016,Stonegate-Queensway,766124
+488,2016,Lawrence Park South,1522732
+489,2016,Dufferin Grove,636899
+490,2016,Lansing-Westgate,853511
+491,2016,Danforth-East York,586918
+492,2016,Danforth,649919
+493,2016,Corso Italia-Davenport,584484
+494,2016,Cliffcrest,580993
+495,2016,Clanton Park,767695
+496,2016,Clairlea-Birchmount,493491
+497,2016,Church-Yonge Corridor,565258
+498,2016,Centennial Scarborough,570471
+499,2016,Casa Loma,1365503
+500,2016,Caledonia-Fairbank,503455
+501,2016,Cabbagetown-South St.James Town,687732
+502,2016,Brookhaven-Amesbury,488463
+503,2016,Broadview North,617113
+504,2016,Bridle Path-Sunnybrook-York Mills,2124653
+505,2016,Briar Hill-Belgravia,508759
+506,2016,Blake-Jones,711848
+507,2016,Black Creek,363055
+508,2016,York University Heights,425769
+509,2016,Agincourt North,459051
+510,2016,Agincourt South-Malvern West,465144
+511,2016,Alderwood,595608
+512,2016,Annex,1039687
+513,2016,Banbury-Don Mills,851872
+514,2016,Don Valley Village,553974
+515,2016,Bathurst Manor,698124
+516,2016,Bayview Village,750572
+517,2016,Bayview Woods-Steeles,786976
+518,2016,Bedford Park-Nortown,1295007
+519,2016,Beechborough-Greenbrook,516279
+520,2016,Bendale,419121
+521,2016,Birchcliffe-Cliffside,608681
+522,2016,Bay Street Corridor,589666
+523,2016,Dorset Park,364667
+524,2016,Dovercourt-Wallace Emerson-Juncti,605040
+525,2016,Downsview-Roding-CFB,530877
+526,2016,Humber Heights-Westmount,625154
+527,2016,Humber Summit,490049
+528,2016,Humbermede,445094
+529,2016,Humewood-Cedarvale,970245
+530,2016,Ionview,400418
+531,2016,Islington-City Centre West,628682
+532,2016,Hillcrest Village,549816
+533,2016,Junction Area,603050
+534,2016,Kennedy Park,399789
+535,2016,Kensington-Chinatown,613094
+536,2016,Kingsview Village-The Westway,470928
+537,2016,Kingsway South,1173663
+538,2016,L'Amoreaux,905137
+539,2016,Lambton Baby Point,468524
+540,2016,Keelesdale-Eglinton West,449257
+541,2016,Lawrence Park North,1056967
+542,2016,Highland Creek,596883
+543,2016,High Park North,741161
+544,2016,East End-Danforth,665384
+545,2016,Edenbridge-Humber Valley,1108146
+546,2016,Eglinton East,374364
+547,2016,Elms-Old Rexdale,373493
+548,2016,Englemount-Lawrence,791880
+549,2016,Eringate-Centennial-West Deane,553656
+550,2016,High Park-Swansea,811423
+551,2016,Etobicoke West Mall,430658
+552,2016,Forest Hill North,1185419
+553,2016,Forest Hill South,1664653
+554,2016,Glenfield-Jane Heights,455970
+555,2016,Greenwood-Coxwell,538727
+556,2016,Guildwood,514116
+557,2016,Henry Farm,514929
+558,2016,Flemingdon Park,289227
+559,2016,Yorkdale-Glen Park,599698
